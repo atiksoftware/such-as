@@ -12,7 +12,7 @@
 				"type" : "audio",
 				"title" : "Hadi Hadi Hadi" 
 			},{
-				"filename" : "position.mp3"
+				"filename" : "position.mp3",
 				"type" : "audio",
 				"title" : "Pozisyonunu Koru" 
 			},{
@@ -23,7 +23,7 @@
 				"filename" : "sticktog.mp3",
 				"type" : "audio",
 				"title" : "Takım Halinde Gidelim"
-			},
+			}
 		]
 	},
 	{
