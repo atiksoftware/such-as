@@ -4,6 +4,11 @@
     "path": "/Counter-Strike",
     "items": [
       {
+        "filename": "9c2c5b83ca747fc55b1e395b8b4a18a1..mp3",
+        "type": "audio",
+        "title": "Anlaşıldı tamam"
+      },
+      {
         "filename": "4dde122d94eb73a966ca9d27d2c9fcb7..mp3",
         "type": "audio",
         "title": "Hadi Hadi Hadi Go Go Go"
@@ -12,11 +17,6 @@
         "filename": "6ec1328e2f3f0b8e57a9c21712266082..mp3",
         "type": "audio",
         "title": "Pozisyonunu koru"
-      },
-      {
-        "filename": "9c2c5b83ca747fc55b1e395b8b4a18a1..mp3",
-        "type": "audio",
-        "title": "Anlaşıldı tamam"
       },
       {
         "filename": "b1e56f6c4f95d5c82b93cd147808ae35..mp3",
@@ -51,14 +51,14 @@
     "path": "/KadirHoca",
     "items": [
       {
-        "filename": "02340230a67e1c44d0955128c33d84ac..mp4",
+        "filename": "70dbbca03bea9aba730046de694085f4..mp4",
         "type": "video",
-        "title": "Bedava bedava sorular anlıyor musun ben sevmiyorum bu tip şeyleri"
+        "title": "Abi adam harbiden dangalak tam bi sığır amına koyayım"
       },
       {
-        "filename": "0a963e02cbe1da2c97b3598afe4c674f..mp4",
+        "filename": "e56325cb614c470c570b22885a493d45..mp4",
         "type": "video",
-        "title": "Ya ananın amı ne yaparsan yap ulan sikir ol git"
+        "title": "Adam gibi için kardeşim maymunlaşmayın yani"
       },
       {
         "filename": "1031fde6332a8712379bd1d6bfd68317..mp4",
@@ -66,119 +66,14 @@
         "title": "Adamlar ne yarak yiyceni bilmiyor"
       },
       {
-        "filename": "14ed8a8f9268f42abd486d86077b30ce..mp4",
-        "type": "video",
-        "title": "Biraz delikanlı olun ya"
-      },
-      {
-        "filename": "214251ef9a1b39f7fd2a8ea20ec7195e..mp4",
-        "type": "video",
-        "title": "Yav sen 40 sene üniversite okusan yine senden bi sikim olmaz"
-      },
-      {
-        "filename": "23dae685c0513349f3824362ddaf87c2..mp4",
-        "type": "video",
-        "title": "Tam bi göt oğlanı"
-      },
-      {
-        "filename": "2b0cf753099e02439683f4ad57d17db5..mp4",
-        "type": "video",
-        "title": "Böyle de bi asabiyim yani bazen"
-      },
-      {
-        "filename": "2f90139ed4fcb2db3358d21c215b3e9b..mp4",
-        "type": "video",
-        "title": "Ya amına koyim"
-      },
-      {
-        "filename": "34f68d7ff8cd6304b73161457437f25e..mp4",
-        "type": "video",
-        "title": "Ulan 30 yumurtayı götüne soksan yine o vucudu yapamazsın"
-      },
-      {
-        "filename": "3818cc22db1c4a3ea7ad80564d67c496..mp4",
-        "type": "video",
-        "title": "Beni de tipimi gördü heralde böyle denyo zannetti anlıyor musun bu lavuğa dedi ben geçireyim dedi parası da var dedi ya bunun"
-      },
-      {
-        "filename": "52c2c4b67bdd9b1ca7954bc0d0b5dca0..mp4",
-        "type": "video",
-        "title": "Evet soru alayım"
-      },
-      {
-        "filename": "5a5e2adcab7b1ce7e9d311d323622d61..mp4",
-        "type": "video",
-        "title": "Dedim ya hocam benim o kadar denyo bir görüntüm mü var dedim ya o kadar amcık ağızlı bi görüntüm mü var dedim"
-      },
-      {
-        "filename": "5d3c7bedd415d0bd8c3e89095c3940b2..mp4",
-        "type": "video",
-        "title": "Sen dangalak mısın amına koyayım ya"
-      },
-      {
-        "filename": "6060b329d572c79481ab50f5fbfd0ea7..mp4",
-        "type": "video",
-        "title": "Böyle ego tavanlarda sanki birleşmiş milletlere üye olacakmış gibi anlıyor musun"
-      },
-      {
-        "filename": "674c60addc0e5c50f4d68ea6bd97493f..mp4",
-        "type": "video",
-        "title": "Siktir ettim pezevengi"
-      },
-      {
-        "filename": "70dbbca03bea9aba730046de694085f4..mp4",
-        "type": "video",
-        "title": "Abi adam harbiden dangalak tam bi sığır amına koyayım"
-      },
-      {
-        "filename": "724e7b0e368e2c2b098d1a1df621087f..mp4",
-        "type": "video",
-        "title": "Ya ne ara kafayı yedin ben anlaamdım ki arkadaş ya"
-      },
-      {
-        "filename": "780512a3ece3c46cfe83fcf30d3d18a7..mp4",
-        "type": "video",
-        "title": "Ya dedim amına koyim neyi soruyorsun cumhuriyet başsavcısı mısın ananın amı"
-      },
-      {
-        "filename": "7acaa29e89e68db517c8339f6d124031..mp4",
-        "type": "video",
-        "title": "Ya dayı yalan konuşma amına koyayım ya"
-      },
-      {
         "filename": "8e24c00c7ea59e12ac53a955b9a9fc3e..mp4",
         "type": "video",
         "title": "Anlıyor musun yani bana ters geliyor"
       },
       {
-        "filename": "9619aad7314f492118ebda564ec5d09a..mp4",
+        "filename": "70240d1b4fd793fe016641f6d9c8df27..mp4",
         "type": "video",
-        "title": "Kaşınmayacaksın kendine küfrettirmeyeceksin kardeşim"
-      },
-      {
-        "filename": "9bb937cdcb4ffc6000e0fc3c07add604..mp4",
-        "type": "video",
-        "title": "Nah olursun amına koyayım"
-      },
-      {
-        "filename": "b673a08b260692daf9fb9c8480f6677b..mp4",
-        "type": "video",
-        "title": "Bunun için bir şey demek istemiyorum gittikçe sinirleniyorum yani"
-      },
-      {
-        "filename": "b7c05fedf85d5d2f74670015643a33f1..mp4",
-        "type": "video",
-        "title": "Lan oğlum bi sus lan"
-      },
-      {
-        "filename": "c813bacada3857bb2eaa658548d319eb..mp4",
-        "type": "video",
-        "title": "Yani şimdi 30 yaşına gelmiş bi adam ne ananın amına süt içiyorsun yani süt nedir yani"
-      },
-      {
-        "filename": "db01a55434d5a233d7021210f5600eaa..mp4",
-        "type": "video",
-        "title": "Evet başka soru alayım"
+        "title": "Bak öyle arkadaşım var ki orospu çocuğuyum hangi hareketin ne iş yaptığını bilmez"
       },
       {
         "filename": "dfc424d8f7c34393a9f56ff347581aa2..mp4",
@@ -186,9 +81,159 @@
         "title": "Bak yine sinirlendim sigara içeceğim amına koyayım"
       },
       {
-        "filename": "e56325cb614c470c570b22885a493d45..mp4",
+        "filename": "02340230a67e1c44d0955128c33d84ac..mp4",
         "type": "video",
-        "title": "Adam gibi için kardeşim maymunlaşmayın yani"
+        "title": "Bedava bedava sorular anlıyor musun ben sevmiyorum bu tip şeyleri"
+      },
+      {
+        "filename": "b47c92ff025af14ac86b2bef3984bd8d..mp4",
+        "type": "video",
+        "title": "Bek işte ben bi sikim biliyorum"
+      },
+      {
+        "filename": "3818cc22db1c4a3ea7ad80564d67c496..mp4",
+        "type": "video",
+        "title": "Beni de tipimi gördü heralde böyle denyo zannetti anlıyor musun bu lavuğa dedi ben geçireyim dedi parası da var dedi ya bunun"
+      },
+      {
+        "filename": "14ed8a8f9268f42abd486d86077b30ce..mp4",
+        "type": "video",
+        "title": "Biraz delikanlı olun ya"
+      },
+      {
+        "filename": "2b0cf753099e02439683f4ad57d17db5..mp4",
+        "type": "video",
+        "title": "Böyle de bi asabiyim yani bazen"
+      },
+      {
+        "filename": "6060b329d572c79481ab50f5fbfd0ea7..mp4",
+        "type": "video",
+        "title": "Böyle ego tavanlarda sanki birleşmiş milletlere üye olacakmış gibi anlıyor musun"
+      },
+      {
+        "filename": "908f259209552fa9d2e02339e48ca140..mp4",
+        "type": "video",
+        "title": "Bunu türkçeleştir herkesin anlayabileceği şekle getir"
+      },
+      {
+        "filename": "b673a08b260692daf9fb9c8480f6677b..mp4",
+        "type": "video",
+        "title": "Bunun için bir şey demek istemiyorum gittikçe sinirleniyorum yani"
+      },
+      {
+        "filename": "5a5e2adcab7b1ce7e9d311d323622d61..mp4",
+        "type": "video",
+        "title": "Dedim ya hocam benim o kadar denyo bir görüntüm mü var dedim ya o kadar amcık ağızlı bi görüntüm mü var dedim"
+      },
+      {
+        "filename": "db01a55434d5a233d7021210f5600eaa..mp4",
+        "type": "video",
+        "title": "Evet başka soru alayım"
+      },
+      {
+        "filename": "52c2c4b67bdd9b1ca7954bc0d0b5dca0..mp4",
+        "type": "video",
+        "title": "Evet soru alayım"
+      },
+      {
+        "filename": "9619aad7314f492118ebda564ec5d09a..mp4",
+        "type": "video",
+        "title": "Kaşınmayacaksın kendine küfrettirmeyeceksin kardeşim"
+      },
+      {
+        "filename": "b7c05fedf85d5d2f74670015643a33f1..mp4",
+        "type": "video",
+        "title": "Lan oğlum bi sus lan"
+      },
+      {
+        "filename": "9bb937cdcb4ffc6000e0fc3c07add604..mp4",
+        "type": "video",
+        "title": "Nah olursun amına koyayım"
+      },
+      {
+        "filename": "5d3c7bedd415d0bd8c3e89095c3940b2..mp4",
+        "type": "video",
+        "title": "Sen dangalak mısın amına koyayım ya"
+      },
+      {
+        "filename": "febd00db1b0380483072318d7b718aac..mp4",
+        "type": "video",
+        "title": "Sen o adama ne anlatırsan anlat"
+      },
+      {
+        "filename": "674c60addc0e5c50f4d68ea6bd97493f..mp4",
+        "type": "video",
+        "title": "Siktir ettim pezevengi"
+      },
+      {
+        "filename": "fc48d5cee9bfee5b027aa01ba5b1a71e..mp4",
+        "type": "video",
+        "title": "Şimdi neden bilmeye gerek yok biliyor musun bak gereksiz bir bilgi o"
+      },
+      {
+        "filename": "27a2f87a8d6c61702007830230536494..mp4",
+        "type": "video",
+        "title": "Şimdi onu dinleyen dallamalar da çok ya"
+      },
+      {
+        "filename": "23dae685c0513349f3824362ddaf87c2..mp4",
+        "type": "video",
+        "title": "Tam bi göt oğlanı"
+      },
+      {
+        "filename": "34f68d7ff8cd6304b73161457437f25e..mp4",
+        "type": "video",
+        "title": "Ulan 30 yumurtayı götüne soksan yine o vucudu yapamazsın"
+      },
+      {
+        "filename": "2f90139ed4fcb2db3358d21c215b3e9b..mp4",
+        "type": "video",
+        "title": "Ya amına koyim"
+      },
+      {
+        "filename": "0a963e02cbe1da2c97b3598afe4c674f..mp4",
+        "type": "video",
+        "title": "Ya ananın amı ne yaparsan yap ulan sikir ol git"
+      },
+      {
+        "filename": "dc91e7badf7990e1b2612b537cba26ee..mp4",
+        "type": "video",
+        "title": "Ya ananın amı ya ben senden bir bir şey anlamıyorum ya yaram ne diyorsun"
+      },
+      {
+        "filename": "35180ba194b286c0dd7e2dd7e53decf7..mp4",
+        "type": "video",
+        "title": "Ya ananın amına girsin o şey"
+      },
+      {
+        "filename": "7acaa29e89e68db517c8339f6d124031..mp4",
+        "type": "video",
+        "title": "Ya dayı yalan konuşma amına koyayım ya"
+      },
+      {
+        "filename": "780512a3ece3c46cfe83fcf30d3d18a7..mp4",
+        "type": "video",
+        "title": "Ya dedim amına koyim neyi soruyorsun cumhuriyet başsavcısı mısın ananın amı"
+      },
+      {
+        "filename": "ab09cb73395ce0c79b79a05982f2b552..mp4",
+        "type": "video",
+        "title": "Ya milletin kafasını ne amcık ağızlı yapıyorsun"
+      },
+      {
+        "filename": "724e7b0e368e2c2b098d1a1df621087f..mp4",
+        "type": "video",
+        "title": "Ya ne ara kafayı yedin ben anlaamdım ki arkadaş ya"
+      },
+      {
+        "filename": "c813bacada3857bb2eaa658548d319eb..mp4",
+        "type": "video",
+        "title": "Yani şimdi 30 yaşına gelmiş bi adam ne ananın amına süt içiyorsun yani süt nedir yani"
+      },
+      {
+        "filename": "214251ef9a1b39f7fd2a8ea20ec7195e..mp4",
+        "type": "video",
+        "title": "Yav sen 40 sene üniversite okusan yine senden bi sikim olmaz"
       }
     ]
   }
